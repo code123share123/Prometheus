@@ -7,7 +7,7 @@ python3 main.py
 
 # Environments 
 
-sklearn
+
 ```
 Python==3.8
 torch==1.12.1
