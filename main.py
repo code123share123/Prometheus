@@ -373,7 +373,7 @@ for seed in seed_list:
     torch.manual_seed(seed)
     np.random.seed(seed)
 
-    # Initialize hyper-parameters and parameters
+    
     hparams = []
     hparams_space = []
     parameters = []
